@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md Shagor</h1>
-<h3 align="center">A Python, Full Stack, Network Engineer and Developer.</h3>
+<h3 align="center">A Python, Software Engineer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdshagor369&label=Profile%20views&color=0e75b6&style=flat" alt="mdshagor369" /> </p>
 
@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/mdshagor369" target="blank"><img src="https://img.shields.io/twitter/follow/mdshagor369?logo=twitter&style=for-the-badge" alt="mdshagor369" /></a> </p>
 
-- 🌱 I’m currently learning **Advance Python, CCNA and RHEL.**
+- 🌱 I’m currently learning **Advance Python, Software Engineer.**
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📝 I regularly write articles on [https://www.facebook.com/shahariyarebnayshagor](https://www.facebook.com/shahariyarebnayshagor)
+- 📝 I regularly write articles on [https://www.facebook.com/shahariyarebnayshagor](https://www.facebook.com/UnitedEngineeringAssociation)
 
-- 💬 Ask me about **Network(CCNA), Python, issue of Linux.**
+- 💬 Ask me about **Python, issue of Linux.**
 
 - 📫 How to reach me **mdshagor.three.six.nine@gmail.com**
 
